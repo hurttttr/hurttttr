@@ -140,9 +140,6 @@ me.say_hi()
 <summary>📈 更多统计 / More Stats</summary>
 <br>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hurttttr&theme=tokyo-night&hide_border=true&area=true&area_color=6C63FF&line=6C63FF&point=00C2A8" alt="Activity Graph" />
-</p>
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hurttttr&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" alt="Trophy" />
 </p>
 </details>
